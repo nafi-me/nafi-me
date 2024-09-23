@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shahriar Rashid Nafi</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Information Science & Computer Engineering Student At ITMO University from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafi-me&label=Profile%20views&color=0e75b6&style=flat" alt="nafi-me" /> </p>
 
-- 🔭 I’m currently working on **30 days of cse student**
+- 🔭 I’m currently working on **1460 days of a CSE Student**
 
-- 📫 How to reach me **shahriarnafi2002@gmail.com**
+- 📫 How to reach me **463224@niuitmo.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
