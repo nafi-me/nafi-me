@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shahriar Rashid Nafi</h1>
-<h3 align="center">A passionate Information Science & Computer Engineering Student At "ITMO University" from Bangladesh🇧🇩</h3>
+<h1 align="center">Hello, I'm Shahriar Rashid Nafi</h1>
+
+<h3 align="center">I’m a dedicated student of Information Science and Computer Engineering at ITMO University, passionate about coding, algorithms, and AI. I enjoy tackling complex challenges and developing solutions that push the boundaries of technology.I'm always eager to explore new technologies and collaborate on innovative projects that make a difference. Let's build something great together!" from Bangladesh🇧🇩</h3>
 
 <p align
 
