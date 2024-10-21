@@ -7,6 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nafi-me" alt="nafi-me" /></a> </p>
 
+<div style="text-align: center;">
+    <a href="https://github.com/your-username" target="_blank">
+        <img src="https://bd.linkedin.com/in/shahriarrashidnafi" alt="Your Image" style="max-width: 100%; height: auto;" />
+    </a>
+</div>
+
+
 <p align="left"> <a href="https://twitter.com/napa_extend" target="blank"><img src="https://img.shields.io/twitter/follow/napa_extend?logo=twitter&style=for-the-badge" alt="napa_extend" /></a> </p>
 
 - 🔭 I’m currently working on [Itmo-s-Labs](https://github.com/Itmo-s-Labs)
