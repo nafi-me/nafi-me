@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact: **For me! Satisfaction is everything**
 
-- Read About Me: [![ITMO Facts](https://news.itmo.ru/images/news_trans/big/p13946.jpg)](https://news.itmo.ru/en/education/students/news/13946/)
+<h3 Read About Me:</h3> [![ITMO Facts](https://news.itmo.ru/images/news_trans/big/p13946.jpg)](https://news.itmo.ru/en/education/students/news/13946/)
 
 
 
