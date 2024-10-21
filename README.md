@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **463224@niuitmo.ru**
 
-- ⚡ Fun fact: **i love cat**
+- ⚡ Fun fact: **For me! Satisfaction is everything**
 
-- <a href="https://news.itmo.ru/en/education/students/news/13946/">ITMO_FACTS (about me)</a>
+-Read About Me: <a href="https://news.itmo.ru/en/education/students/news/13946/">ITMO_FACTS </a>
 
 
 <h3 align="left">Connect with me:</h3>
