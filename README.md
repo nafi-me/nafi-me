@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahriar Rashid Nafi</h1>
-<h3 align="center">A passionate Information Science & Computer Engineering Student At "ITMO University" from Bangladesh</h3>
+<h3 align="center">A passionate Information Science & Computer Engineering Student At "ITMO University" from Bangladesh 🇧🇩 </h3>
 
 <p align
 
