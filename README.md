@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shahriar Rashid Nafi</h1>
 <h3 align="center">A passionate Information Science & Computer Engineering Student At "ITMO University" from Bangladesh</h3>
 
+<p align
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafi-me&label=Profile%20views&color=0e75b6&style=flat" alt="nafi-me" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nafi-me" alt="nafi-me" /></a> </p>
@@ -14,6 +16,9 @@
 - 📫 How to reach me **463224@niuitmo.ru**
 
 - ⚡ Fun fact: **i love cat**
+
+- <a href="https://news.itmo.ru/en/education/students/news/13946/">ITMO_FACTS (about me)</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
