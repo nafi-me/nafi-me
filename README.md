@@ -59,8 +59,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nafi-me&theme=dark&hide_border=false)<br/>
 
 
-
-
-		vertex -62.918998333215725 5.840999845266342 4.499999880790711
-		vertex -62.918998333215725 8.414999777078629 4.499999880790711
-	endloop
