@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/napa_extend" target="blank"><img src="https://img.shields.io/twitter/follow/napa_extend?logo=twitter&style=for-the-badge" alt="napa_extend" /></a> </p>
 
-- 🔭 I’m currently working on [Itmo-s-Labs](https://github.com/Itmo-s-Labs)
+- 🔭 I’m currently working on [Itmo-s-Labs](https://github.com/Itmo-s-Labs) & [Info-labs](https://github.com/Informatics-labs-tmp-org)
 
 - 🌱 I’m currently learning **Java,Python,C#**
 
