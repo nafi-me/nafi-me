@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Java,Python,C#**
 
-- 📫 How to reach me **463224@niuitmo.ru**
+- 📫 How to reach me **nafi463224@niuitmo.ru**
 
 - ⚡ Fun fact: **For me! Satisfaction is everything**
 
