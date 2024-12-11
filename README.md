@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Itmo-s-Labs](https://github.com/Itmo-s-Labs) & [Info-labs](https://github.com/Informatics-labs-tmp-org)
 
-- 🌱 I’m currently learning **Java,Python,C#**
+- 🌱 I’m currently learning **Java,Python,C++**
 
 - 📫 How to reach me **nafi463224@niuitmo.ru**
 
