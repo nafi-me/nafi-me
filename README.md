@@ -39,6 +39,7 @@
 <a href="https://instagram.com/napa.extend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="napa.extend" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ShahriarRashidNafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahriararashidnafi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shariarnafi2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shariarnafi2002" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nafi_me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nafi_me" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shahriar.nafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shahriar.nafi" height="30" width="40" /></a>
 </p>
 
@@ -60,4 +61,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=nafi-me&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nafi-me&theme=dark&hide_border=false)<br/>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafi-me&show_icons=true&locale=en&layout=compact" alt="nafi-me" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafi-me&show_icons=true&locale=en" alt="nafi-me" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafi-me&" alt="nafi-me" /></p>
 
