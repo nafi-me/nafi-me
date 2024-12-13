@@ -60,11 +60,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=nafi-me&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nafi-me&theme=dark&hide_border=false)<br/>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafi-me&show_icons=true&locale=en&layout=compact" alt="nafi-me" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafi-me&show_icons=true&locale=en" alt="nafi-me" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafi-me&" alt="nafi-me" /></p>
-
