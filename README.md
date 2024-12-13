@@ -20,19 +20,7 @@
 
 - ⚡ Fun fact: **For me! Satisfaction is everything**
 
-  - import { Button } from "@/components/ui/button";
-import { CoolMode } from "@/components/magicui/cool-mode";
-
-export function CoolModeDemo() {
-  return (
-    <div className="relative justify-center">
-      <CoolMode>
-        <Button>Click Me!</Button>
-      </CoolMode>
-    </div>
-  );
-}
-
+- READ ABOUT ME🚡
   <a href="https://news.itmo.ru/en/education/students/news/13946/"><img src="https://news.itmo.ru/images/news_trans/big/p13946.jpg" alt="ITMO Facts" width="300"></a>
 
 
