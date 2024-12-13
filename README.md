@@ -20,7 +20,9 @@
 
 - ⚡ Fun fact: **For me! Satisfaction is everything**
 
-- npx shadcn@latest add "https://magicui.design/r/cool-mode"
+- READ ABOUT ME🥇
+
+- 
   <a href="https://news.itmo.ru/en/education/students/news/13946/"><img src="https://news.itmo.ru/images/news_trans/big/p13946.jpg" alt="ITMO Facts" width="300"></a>
 
 
