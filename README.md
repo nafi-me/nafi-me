@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Itmo-s-Labs](https://github.com/Itmo-s-Labs) & [Info-labs](https://github.com/Informatics-labs-tmp-org)
 
-- 🌱 I’m currently learning **Java,Python,C++**
+- 🌱 I’m currently learning **Java,Python,C++,Linux**
 
 - 📫 How to reach me **nafi463224@niuitmo.ru**
 
@@ -29,7 +29,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Wanna Connect with me! :</h3>
 <p align="left">
 <a href="https://codepen.io/hello-nafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hello-nafi" height="30" width="40" /></a>
 <a href="https://twitter.com/napa_extend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="napa_extend" height="30" width="40" /></a>
