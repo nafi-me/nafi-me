@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **nafi463224@niuitmo.ru**
   
-- www.hellonafi.com
+- 🥇 www.hellonafi.com
 
 - ⚡ Fun fact: **For me! Satisfaction is everything**
 
@@ -41,12 +41,12 @@
 ⣿⣿⣿⣶⣿⣿⣿⣿⣿⠋⡹⠙⣿⣿⣿⡇ <br>
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣾⣿⣿⠛ <br>
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠛⠁⠀<br>
-⣿⣿⡿⠻⠿⠿⠿⠿⠛⠹⠑⠀⠀   meow<br>
+⣿⣿⡿⠻⠿⠿⠿⠿⠛⠹⠑⠀⠀     MEOW<br>
 ⠟⠁⠀<br>
 
 <h3 align="left">Wanna Connect with me! :</h3>
 <p align="left">
-<a href="https://hellonafi.com/about" target="blank"><img align="center" src="https://hellonafi.com/wp-content/uploads/2025/02/cropped-1701032153379-da7c9e8c-1017-4f21-9339-a5dce0d10063_1-1.jpg"
+<a href="https://hellonafi.com/credentials" target="blank"><img align="center" src="https://hellonafi.com/wp-content/uploads/2025/02/cropped-1701032153379-da7c9e8c-1017-4f21-9339-a5dce0d10063_1-1.jpg"
 alt="hellonafi.com" height="30" width="40" /></a>
 <a href="https://codepen.io/hello-nafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hello-nafi" height="30" width="40" /></a>
 <a href="https://twitter.com/nafi153045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="napa_extend" height="30" width="40" /></a>
