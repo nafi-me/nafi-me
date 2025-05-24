@@ -46,8 +46,10 @@
 
 <h3 align="left">Wanna Connect with me! :</h3>
 <p align="left">
+<a href="https://hellonafi.com/about" target="blank"><img align="center" src="https://hellonafi.com/wp-content/uploads/2025/02/cropped-1701032153379-da7c9e8c-1017-4f21-9339-a5dce0d10063_1-1.jpg"
+alt="hellonafi.com" height="30" width="40" /></a>
 <a href="https://codepen.io/hello-nafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hello-nafi" height="30" width="40" /></a>
-<a href="https://twitter.com/napa_extend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="napa_extend" height="30" width="40" /></a>
+<a href="https://twitter.com/nafi153045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="napa_extend" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shahriarrashidnafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahriarrashidnafi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17121796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17121796/shahriar-rashid-nafi" height="30" width="40" /></a>
 <a href="https://fb.com/shahriarrashidnafii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahriarrashidnafii" height="30" width="40" /></a>
