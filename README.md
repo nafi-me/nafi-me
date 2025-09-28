@@ -10,7 +10,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nafi-me" alt="nafi-me" /></a> </p>
 
 
-<p align="left"> <a href="https://twitter.com/nafi153045" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="nafi153045" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nafi153045" target="blank"><img src="https://img.shields.io/twitter/follow/Nafi?logo=twitter&style=for-the-badge" alt="nafi153045" /></a> </p>
 
 - 🔭 I’m currently working on [Itmo-s-Labs](https://github.com/Itmo-s-Labs) & [Info-labs](https://github.com/Informatics-labs-tmp-org)
 
