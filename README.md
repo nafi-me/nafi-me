@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm <span style="color: blue;">Shahriar Rashid Nafi</span></h1>
 
 
-<h4 align="center"> Driven by curiosity for problem-solving! I’m a student of Information Science and Computer Engineering at ITMO University,from Bangladesh. </h4> <h6> "I'm passionate about programming, algorithms, and AI. I enjoy tackling complex challenges and developing solutions that push the boundaries of technology.I'm always eager to explore new technologies and collaborate on innovative projects that make a difference. Let's build something great together!" 🇧🇩</h6>
+<h4 align="center"> Driven by curiosity for problem-solving! I’m a tech enthusiast and a student of Information Science and Computer Engineering at ITMO University,from Bangladesh. </h4> <h6> "I'm passionate about programming, algorithms, and AI. I enjoy tackling complex challenges and developing solutions that push the boundaries of technology.I'm always eager to explore new technologies and collaborate on innovative projects that make a difference. Let's build something great together!" 🇧🇩</h6>
 
 <p align
 
@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Itmo-s-Labs](https://github.com/Itmo-s-Labs) & [Info-labs](https://github.com/Informatics-labs-tmp-org)
 
-- 🌱 I’m currently learning **Java,Python,C++,Linux,Sql**
+- 🌱 I’m currently learning **Java,Python,C++,Linux,SQL**
 
 - 📫 How to reach me **nafi463224@niuitmo.ru**
   
@@ -41,7 +41,7 @@
 ⣿⣿⣿⣶⣿⣿⣿⣿⣿⠋⡹⠙⣿⣿⣿⡇ <br>
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣾⣿⣿⠛ <br>
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠛⠁⠀<br>
-⣿⣿⡿⠻⠿⠿⠿⠿⠛⠹⠑⠀⠀     MEOW<br>
+⣿⣿⡿⠻⠿⠿⠿⠿⠛⠹⠑⠀⠀     HELLO MEOW MEOW<br>
 ⠟⠁⠀<br>
 
 <h3 align="left">Wanna Connect with me! :</h3>
