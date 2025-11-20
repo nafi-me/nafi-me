@@ -1,12 +1,12 @@
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-###
+
 <div align="center">
-  <img height="200" src="https://hellonafi.com/wp-content/uploads/2025/11/6bc29ec4-7f7c-4be2-b357-aa01f6ef6c16-1763670341.jpeg"  />
+  <img height="300" src="https://hellonafi.com/wp-content/uploads/2025/11/6bc29ec4-7f7c-4be2-b357-aa01f6ef6c16-1763670341.jpeg"  />
 </div>
 
-###
+
 
 
 
