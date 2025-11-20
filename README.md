@@ -49,7 +49,7 @@
 ⣿⣿⣿⣶⣿⣿⣿⣿⣿⠋⡹⠙⣿⣿⣿⡇ <br>
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣾⣿⣿⠛ <br>
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠛⠁⠀<br>
-⣿⣿⡿⠻⠿⠿⠿⠿⠛⠹⠑⠀⠀     HELLO MEOW MEOW<br>
+⣿⣿⡿⠻⠿⠿⠿⠿⠛⠹⠑⠀⠀     HELLO ! MEOW MEOW<br>
 ⠟⠁⠀<br>
 
 <h3 align="left">Wanna Connect with me! :</h3>
@@ -69,6 +69,11 @@ alt="hellonafi.com" height="30" width="40" /></a>
 </p>
 
 <a href="https://www.f6s.com/member/shahriar-rashid-nafi?follow=1" target="_blank" title="Follow Shahriar Rashid Nafi on F6S"><img src="https://www.f6s.com/images/f6s-follow-secondary.png" border="0" width="78" height="22 " alt="Follow Shahriar Rashid Nafi on F6S" style="width: 78px; height: 22px; padding: 0px; margin: 0px;" /></a>
+<a href="https://t.me/hello_nafi" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="https://vk.com/nafi45" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white"/> </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
