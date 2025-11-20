@@ -45,7 +45,6 @@
 
 <br>
 
-
  ⠀⣴⣿⣦⡀<br>
 ⠀⣼⣿⣿⣿⣷⡀<br>
 ⣼⣿⣿⣿⣿⣿⣿⣿⣦⣄⡀<br>
@@ -56,8 +55,10 @@
 ⣿⣿⣿⣶⣿⣿⣿⣿⣿⠋⡹⠙⣿⣿⣿⡇ <br>
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣾⣿⣿⠛ <br>
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠛⠁⠀<br>
-⣿⣿⡿⠻⠿⠿⠿⠿⠛⠹⠑⠀⠀     HELLO ! MEOW MEOW<br>
+⣿⣿⡿⠻⠿⠿⠿⠿⠛⠹⠑⠀⠀     HEY! MEOW MEOW<br>
 ⠟⠁⠀<br>
+
+<br>
 
 <h3 align="left">Wanna Connect with me! :</h3>
 <p align="left">
