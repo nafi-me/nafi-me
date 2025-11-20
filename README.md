@@ -74,16 +74,7 @@ alt="hellonafi.com" height="30" width="40" /></a>
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafi-me&show_icons=true&locale=en&layout=compact" alt="nafi-me" /></p>
 
-<div class="fa-3x">
-  <i class="fa-solid fa-sync fa-spin"></i>
-  <i class="fa-solid fa-circle-notch fa-spin"></i>
-  <i class="fa-solid fa-cog fa-spin"></i>
-  <i class="fa-solid fa-cog fa-spin fa-spin-reverse"></i>
-  <i class="fa-solid fa-spinner fa-spin-pulse"></i>
-  <i class="fa-solid fa-spinner fa-spin-pulse fa-spin-reverse"></i>
-</div>
 
 
 
