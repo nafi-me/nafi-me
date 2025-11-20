@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img height="300" src="https://hellonafi.com/wp-content/uploads/2025/11/6bc29ec4-7f7c-4be2-b357-aa01f6ef6c16-1763670341.jpeg"  />
+  <img height="250" width="300" src="https://hellonafi.com/wp-content/uploads/2025/11/6bc29ec4-7f7c-4be2-b357-aa01f6ef6c16-1763670341.jpeg"  />
 </div>
 
 
