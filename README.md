@@ -79,9 +79,7 @@ alt="hellonafi.com" height="30" width="40" /></a>
   <i class="fa-solid fa-spinner fa-spin-pulse fa-spin-reverse"></i>
 </div>
 
-<img src="https://raw.githubusercontent.com/nafi-me/nafi-me/output/snake.svg" alt="Snake animation" />
 
-###
 
 
 ![](https://github-readme-stats.vercel.app/api?username=nafi-me&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
