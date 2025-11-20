@@ -81,7 +81,7 @@ alt="hellonafi.com" height="30" width="40" /></a>
   <i class="fa-solid fa-spinner fa-spin-pulse fa-spin-reverse"></i>
 </div>
 
-![](https://camo.githubusercontent.com/api?username=nafi-me&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=nafi-me&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nafi-me&theme=dark&hide_border=false)<br/>
 
