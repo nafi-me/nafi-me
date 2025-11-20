@@ -79,15 +79,8 @@ alt="hellonafi.com" height="30" width="40" /></a>
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafi-me&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafi-me&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafi-me&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafi-me&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nafi-me&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"/>
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nafi-me&theme=radical&utcOffset=8">
-
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafi-me&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nafi-me&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 
