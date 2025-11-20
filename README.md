@@ -11,7 +11,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=nafi-me&label=Profile%20views&color=0e75b6&style=flat" alt="nafi-me" /> </p>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=nafi-me&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=nafi-me&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy"  />
 </div>
 
 
@@ -99,4 +99,8 @@ alt="hellonafi.com" height="30" width="40" /></a>
 
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nafi-me/nafi-me/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nafi-me/nafi-me/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nafi-me/nafi-me/output/pacman-contribution-graph.svg">
+</picture>
