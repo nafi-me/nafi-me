@@ -34,7 +34,7 @@
 - READ ABOUT ME ( Click The Logo )🥇
 
 - 
-  <a href="https://news.itmo.ru/en/education/students/news/13946/"><img src="https://itmo.ru/file/pages/213/slogan_na_plashke_belyy-01.png" alt="ITMO Faces" width="150"></a>
+  <a href="https://news.itmo.ru/en/education/students/news/13946/"><img src="https://itmo.ru/file/pages/213/slogan_na_plashke_belyy-01.png" alt="ITMO Faces" width="130"></a>
 
 
 <br>
