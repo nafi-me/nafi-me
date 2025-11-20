@@ -87,5 +87,9 @@ alt="hellonafi.com" height="30" width="40" /></a>
 ![](https://github-readme-stats.vercel.app/api?username=nafi-me&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nafi-me&theme=dark&hide_border=false)<br/>
 
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
