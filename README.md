@@ -9,8 +9,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nafi-me&label=Profile%20views&color=0e75b6&style=flat" alt="nafi-me" /> </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nafi-me&theme=alduin" alt="nafi-me" />
+  </a>
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nafi-me" alt="nafi-me" /></a> </p>
 
 
 
