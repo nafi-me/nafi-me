@@ -3,28 +3,22 @@
 </div>
 
 <div align="center">
-  <img height="250" width="350" src="https://hellonafi.com/wp-content/uploads/2025/11/6bc29ec4-7f7c-4be2-b357-aa01f6ef6c16-1763670341.jpeg"  />
+  <img height="250" width="400" src="https://hellonafi.com/wp-content/uploads/2025/11/6bc29ec4-7f7c-4be2-b357-aa01f6ef6c16-1763670341.jpeg"  />
 </div>
-
-
-
-
 
 <h1 align="center">Hello, I'm <span style="color: blue;">Shahriar Rashid Nafi</span></h1>
 
-<h4 align="center"> Driven by curiosity for problem-solving! I’m a tech enthusiast and a student of Information Science and Computer Engineering at <a href="https://en.itmo.ru/" target="_blank">ITMO University</a> from <a href="https://en.wikipedia.org/wiki/Bangladesh" target="blankl">Bangladesh.</a> </h4> <h6> "I'm passionate about programming, algorithms, and AI. I enjoy tackling complex challenges and developing solutions that push the boundaries of technology.I'm always eager to explore new technologies and collaborate on innovative projects that make a difference. Let's build something great together!" 🇧🇩</h6>
+<h4 align="center"> Driven by curiosity for problem-solving! I’m a tech enthusiast and a Student of "Information Science and Computer Engineering" at <a href="https://en.itmo.ru/" target="_blank">ITMO University</a> from <a href="https://en.wikipedia.org/wiki/Bangladesh" target="blankl">Bangladesh.</a> </h4> <h6> "I'm passionate about programming, algorithms, and AI. I enjoy tackling complex challenges and developing solutions that push the boundaries of technology.I'm always eager to explore new technologies and collaborate on innovative projects that make a difference. Let's build something great together!" 🇧🇩</h6>
 
 <p align
 
 <p> <img src="https://komarev.com/ghpvc/?username=nafi-me&label=Profile%20views&color=0e75b6&style=flat" alt="nafi-me" /> </p>
 <div align="center">
+<br>
   <img src="https://github-profile-trophy.vercel.app?username=nafi-me&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy"  />
 </div>
 
-
-
-
-
+<br>
 <p align="left"> <a href="https://twitter.com/nafi153045" target="blank"><img src="https://img.shields.io/twitter/follow/Nafi?logo=twitter&style=for-the-badge" alt="nafi153045" /></a> </p>
 
 - 🔭 I’m currently working on [Itmo-s-Labs](https://github.com/Itmo-s-Labs) & [Info-labs](https://github.com/Informatics-labs-tmp-org)
@@ -37,7 +31,7 @@
 
 - ⚡ Fun fact: **For me! Satisfaction is everything**
 
-- READ ABOUT ME **( Click The Logo )**🥇
+- READ ABOUT ME ( Click The Logo )🥇
 
 - 
   <a href="https://news.itmo.ru/en/education/students/news/13946/"><img src="https://itmo.ru/file/pages/213/slogan_na_plashke_belyy-01.png" alt="ITMO Faces" width="150"></a>
