@@ -8,7 +8,7 @@
 
 <h1 align="center">Hello, I'm <span style="color: blue;">Shahriar Rashid Nafi</span></h1>
 
-<h4 align="center"> Driven by curiosity for problem-solving! I’m a tech enthusiast and a Student of "Information Science and Computer Engineering <a href="https://itmo.ru/ru/viewfaculty/104/fakultet_programmnoy_inzhenerii_i_kompyuternoy_tehniki.htm" target="_blank">(ФПИиКТ)</a> at <a href="https://en.itmo.ru/" target="_blank">ITMO University</a> from <a href="https://en.wikipedia.org/wiki/Bangladesh" target="blankl">Bangladesh.</a> </h4> <h6> "I'm passionate about programming, algorithms, and AI. I enjoy tackling complex challenges and developing solutions that push the boundaries of technology.I'm always eager to explore new technologies and collaborate on innovative projects that make a difference. Let's build something great together!" 🇧🇩</h6>
+<h3 align="center"> Driven by curiosity for problem-solving! I’m a tech enthusiast and a Student of "Information Science and Computer Engineering <a href="https://itmo.ru/ru/viewfaculty/104/fakultet_programmnoy_inzhenerii_i_kompyuternoy_tehniki.htm" target="_blank">(ФПИиКТ)</a> at <a href="https://en.itmo.ru/" target="_blank">ITMO University</a> from <a href="https://en.wikipedia.org/wiki/Bangladesh" target="blankl">Bangladesh.</a> </h3> <h6> "I'm passionate about programming, algorithms, and AI. I enjoy tackling complex challenges and developing solutions that push the boundaries of technology.I'm always eager to explore new technologies and collaborate on innovative projects that make a difference. Let's build something great together!" 🇧🇩</h6>
 
 <p align
 
@@ -82,6 +82,11 @@ alt="hellonafi.com" height="30" width="40" /></a>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <br>
 <div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=25&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+<div align="center">
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafi-me&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafi-me&theme=radical">
@@ -91,9 +96,15 @@ alt="hellonafi.com" height="30" width="40" /></a>
 </div>
 
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nafi-me&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=25&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
-
+###
 <!-- Snake Game Repo View -->
 
 <div align="center">
