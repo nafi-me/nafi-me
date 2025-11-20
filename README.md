@@ -15,7 +15,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=nafi-me&label=Profile%20views&color=0e75b6&style=flat" alt="nafi-me" /> </p>
 <div align="center">
 <br>
-  <img src="https://github-profile-trophy.vercel.app?username=nafi-me&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy"  />
+  <img src="https://hellonafi.com/wp-content/uploads/2025/11/131685203-92a31101-2d93-4d18-b24a-d81a8bb012c5.png" height="150" alt="Trophy"  />
 </div>
 
 <br>
