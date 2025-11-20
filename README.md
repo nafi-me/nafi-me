@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm <span style="color: blue;">Shahriar Rashid Nafi</span></h1>
 
 
-<h4 align="center"> Driven by curiosity for problem-solving! I’m a tech enthusiast and a student of Information Science and Computer Engineering at [ITMO University](https://www.itmo.ru/en) ,from Bangladesh. </h4> <h6> "I'm passionate about programming, algorithms, and AI. I enjoy tackling complex challenges and developing solutions that push the boundaries of technology.I'm always eager to explore new technologies and collaborate on innovative projects that make a difference. Let's build something great together!" 🇧🇩</h6>
+<h4 align="center"> Driven by curiosity for problem-solving! I’m a tech enthusiast and a student of Information Science and Computer Engineering at <a href="https://www.itmo.ru/en"> alt="ITMO University" ,from Bangladesh. </h4> <h6> "I'm passionate about programming, algorithms, and AI. I enjoy tackling complex challenges and developing solutions that push the boundaries of technology.I'm always eager to explore new technologies and collaborate on innovative projects that make a difference. Let's build something great together!" 🇧🇩</h6>
 
 <p align
 
@@ -29,7 +29,7 @@
 - READ ABOUT ME🥇
 
 - 
-  <a href="https://news.itmo.ru/en/education/students/news/13946/"><img src="https://news.itmo.ru/images/news_trans/big/p13946.jpg" alt="ITMO Facts" width="300"></a>
+  <a href="https://news.itmo.ru/en/education/students/news/13946/"><img src="https://news.itmo.ru/images/news_trans/big/p13946.jpg" alt="ITMO Faces" width="300"></a>
 
 
 
