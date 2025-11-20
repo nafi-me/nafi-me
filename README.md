@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img height="250" width="300" src="https://hellonafi.com/wp-content/uploads/2025/11/6bc29ec4-7f7c-4be2-b357-aa01f6ef6c16-1763670341.jpeg"  />
+  <img height="250" width="350" src="https://hellonafi.com/wp-content/uploads/2025/11/6bc29ec4-7f7c-4be2-b357-aa01f6ef6c16-1763670341.jpeg"  />
 </div>
 
 
@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently working on [Itmo-s-Labs](https://github.com/Itmo-s-Labs) & [Info-labs](https://github.com/Informatics-labs-tmp-org)
 
-- 🌱 I’m currently learning **Java,Python,C++,Linux,SQL**
+- 🌱 I’m currently learning **Java,JS,Python,C++,Linux,SQL**
 
 - 📫 How to reach me **nafi463224@niuitmo.ru**
   
