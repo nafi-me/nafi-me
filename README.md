@@ -9,10 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nafi-me&label=Profile%20views&color=0e75b6&style=flat" alt="nafi-me" /> </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nafi-me&theme=alduin&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nafi-me" alt="nafi-me" /></a> </p>
 
 
 
@@ -85,13 +82,8 @@ alt="hellonafi.com" height="30" width="40" /></a>
 </div>
 
 
-
-
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=nafi-me&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nafi-me&theme=dark&hide_border=false)<br/>
+<p align="center"> ![](https://github-readme-stats.vercel.app/api?username=nafi-me&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p align="center"> ![](https://github-readme-streak-stats.herokuapp.com/?user=nafi-me&theme=dark&hide_border=false)<br/>
 
 
 
