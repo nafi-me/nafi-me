@@ -9,7 +9,7 @@
 
 <p align
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nafi-me&label=Profile%20views&color=0e75b6&style=flat" alt="nafi-me" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=nafi-me&label=Profile%20views&color=0e75b6&style=flat" alt="nafi-me" /> </p>
 
 <p align="center"> <a href="(https://github-profile-trophy.vercel.app/?username=nafi-me&theme=radical&no-frame=false&no-bg=false&margin-w=4)/></a> </p>
 
