@@ -82,6 +82,15 @@ alt="hellonafi.com" height="30" width="40" /></a>
 
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nafi-me/nafi-me/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nafi-me/nafi-me/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nafi-me/nafi-me/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
+
 ![](https://github-readme-stats.vercel.app/api?username=nafi-me&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nafi-me&theme=dark&hide_border=false)<br/>
 
