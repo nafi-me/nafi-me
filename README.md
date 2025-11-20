@@ -81,7 +81,6 @@ alt="hellonafi.com" height="30" width="40" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nafi-me&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
 
 
@@ -92,6 +91,9 @@ alt="hellonafi.com" height="30" width="40" /></a>
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ### Quote
 
@@ -99,8 +101,3 @@ alt="hellonafi.com" height="30" width="40" /></a>
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nafi-me/nafi-me/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nafi-me/nafi-me/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nafi-me/nafi-me/output/pacman-contribution-graph.svg">
-</picture>
