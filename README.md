@@ -122,8 +122,9 @@ alt="hellonafi.com" height="30" width="40" /></a>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
+<a href="https://www.thegitcity.com/dev/nafi-me">
+<img src="https://www.thegitcity.com/dev/nafi-me/opengraph-image" width="600" alt="Samuel Rizzon - Git City"/>
+</a>
 
-<div align="center">
-   <a href="https://www.thegitcity.com/dev/nafi-me" target="blank"><img height="300" width="400" src="(https://hellonafi.com/wp-content/uploads/2026/03/gitcity-nafi-me-landscape.png)"  />
-</div>
+
 
