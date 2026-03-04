@@ -124,6 +124,6 @@ alt="hellonafi.com" height="30" width="40" /></a>
 
 
 <div align="center">
-   <a href="https://www.thegitcity.com/dev/nafi-me" target="blank"><img height="250" width="400" src="[https://hellonafi.com/wp-content/uploads/2025/11/6bc29ec4-7f7c-4be2-b357-aa01f6ef6c16-1763670341.jpeg](https://hellonafi.com/wp-content/uploads/2026/03/gitcity-nafi-me-landscape.png)"  /> /a>
+   <a href="https://www.thegitcity.com/dev/nafi-me" target="blank"><img height="300" width="400" src="(https://hellonafi.com/wp-content/uploads/2026/03/gitcity-nafi-me-landscape.png)"  />
 </div>
 
