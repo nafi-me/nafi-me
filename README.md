@@ -124,7 +124,7 @@ alt="hellonafi.com" height="30" width="40" /></a>
 
 <div align="center">
 <a href="https://www.thegitcity.com/dev/nafi-me">
-<img src="https://www.thegitcity.com/dev/nafi-me/opengraph-image" width="1200" alt="MD SHAHRIAR RASHID - Git City"/>
+<img src="https://www.thegitcity.com/dev/nafi-me/opengraph-image" width="800" alt="MD SHAHRIAR RASHID - Git City"/>
 </a>
 </div>
 
