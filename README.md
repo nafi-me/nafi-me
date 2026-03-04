@@ -1,6 +1,3 @@
-https://www.thegitcity.com/dev/nafi-me
-
-
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
@@ -125,3 +122,8 @@ alt="hellonafi.com" height="30" width="40" /></a>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
+
+<div align="center">
+  <img height="250" width="400" src="[https://hellonafi.com/wp-content/uploads/2025/11/6bc29ec4-7f7c-4be2-b357-aa01f6ef6c16-1763670341.jpeg](https://hellonafi.com/wp-content/uploads/2026/03/gitcity-nafi-me-landscape.png)"  />
+</div>
+https://www.thegitcity.com/dev/nafi-me
