@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img height="250" width="400" src="https://ibb.co/KxyXQ9QJ"  />
+  <img height="250" width="400" src="https://tmpirates.com/nafi.jpg" />
 </div>
 
 <h1 align="center">Hello, I'm <span style="color: blue;">Shahriar Rashid Nafi</span></h1>
