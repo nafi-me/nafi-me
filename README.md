@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img height="250" width="400" src="[https://hellonafi.com/wp-content/uploads/2025/11/6bc29ec4-7f7c-4be2-b357-aa01f6ef6c16-1763670341.jpeg](https://lakshmipurexpresscafe.wordpress.com/wp-content/uploads/2026/10/screenshot-2026-10-04-203403.png)"  />
+  <img height="250" width="400" src="https://hellonafi.com/wp-content/uploads/2025/11/6bc29ec4-7f7c-4be2-b357-aa01f6ef6c16-1763670341.jpeg](https://lakshmipurexpresscafe.wordpress.com/wp-content/uploads/2026/10/screenshot-2026-10-04-203403.png](https://lakshmipurexpresscafe.wordpress.com/wp-content/uploads/2026/10/screenshot-2026-10-04-203403.png"  />
 </div>
 
 <h1 align="center">Hello, I'm <span style="color: blue;">Shahriar Rashid Nafi</span></h1>
