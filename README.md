@@ -32,7 +32,7 @@
 
 - ⚡ Fun fact: **For me! Satisfaction is everything**
 
-- READ ABOUT ME ( Click The Logo )🥇
+- READ ABOUT ME ( Click The <b>ИТМО</b> Logo )🥇
 
 - 
   <a href="https://news.itmo.ru/en/education/students/news/13946/"><img src="https://itmo.ru/file/pages/213/slogan_na_plashke_belyy-01.png" alt="ITMO Faces" width="130"></a>
